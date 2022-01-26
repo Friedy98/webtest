@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ngouanet'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47ECA2B4F7FE425CAD56176C150820A2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E63A59E5E924FAB9D779CDCE72AF9A3 }}
